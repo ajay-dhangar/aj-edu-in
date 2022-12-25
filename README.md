@@ -2,7 +2,7 @@
 
 # Docusaurus Example
 
-This directory is a brief example of a [Docusaurus](https://docusaurus.io/) site that can be deployed to Vercel with zero configuration.
+This directory is a brief example of a [Docusaurus](https://aj-edu-in.vercel.app/) site that can be deployed to Vercel with zero configuration.
 
 ## Deploy Your Own
 
@@ -10,7 +10,7 @@ Deploy your own Docusaurus project with Vercel.
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/docusaurus&template=docusaurus)
 
-_Live Example: https://docusaurus-template.vercel.app_
+_Live Example: https://aj-edu-in.vercel.app/_
 
 ### How We Created This Example
 
